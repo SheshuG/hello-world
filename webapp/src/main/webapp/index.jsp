@@ -1,11 +1,15 @@
-<form action="action_page.php" method="post">
-  <div class="imgcontainer">
-    <img src="img_avatar2.png" alt="Avatar" class="avatar">
-  </div>
+<form action="action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+  <h1>Sign Up<h1>
+    <p>Please fill in this from to crate an account.</p>>
+  <hr>
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="Email" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
