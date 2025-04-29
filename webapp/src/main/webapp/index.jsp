@@ -11,6 +11,9 @@
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="Email" required>
 
+    <label for="123"><b>123</b></label>
+    <input type="text" placeholder="Enter 123" name="12345" required>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
