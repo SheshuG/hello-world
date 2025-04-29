@@ -14,6 +14,9 @@
     <label for="123"><b>123</b></label>
     <input type="text" placeholder="Enter 123" name="12345" required>
 
+    <label for="Sex"><b>Sex</b></label>
+    <input type="text" placeholder="Enter Sex" name="Sex" required>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
 
